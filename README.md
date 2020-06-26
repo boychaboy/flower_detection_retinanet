@@ -1,3 +1,30 @@
 # Flower Detection
 retinanet pytorch implementation of Korean 21 flowers object detection
 
+*아래 사진을 클릭하시면 발표 영상으로 이동합니다.*
+[![presentation0](./presentation/presentation_0.jpeg)](https://youtu.be/931FWvNu2bE)
+![presentation1](./presentation/presentation_1.jpeg)
+![presentation2](./presentation/presentation_2.jpeg)
+![presentation3](./presentation/presentation_3.jpeg)
+![presentation4](./presentation/presentation_4.jpeg)
+![presentation5](./presentation/presentation_5.jpeg)
+![presentation6](./presentation/presentation_6.jpeg)
+![presentation7](./presentation/presentation_7.jpeg)
+![presentation8](./presentation/presentation_8.jpeg)
+![presentation9](./presentation/presentation_9.jpeg)
+![presentation10](./presentation/presentation_10.jpeg)
+![presentation11](./presentation/presentation_11.jpeg)
+![presentation12](./presentation/presentation_12.jpeg)
+![presentation13](./presentation/presentation_13.jpeg)
+![presentation14](./presentation/presentation_14.jpeg)
+![presentation15](./presentation/presentation_15.jpeg)
+![presentation16](./presentation/presentation_16.jpeg)
+![presentation17](./presentation/presentation_17.jpeg)
+![presentation18](./presentation/presentation_18.jpeg)
+![presentation19](./presentation/presentation_19.jpeg)
+![presentation20](./presentation/presentation_20.jpeg)
+![presentation21](./presentation/presentation_21.jpeg)
+![presentation22](./presentation/presentation_22.jpeg)
+![presentation23](./presentation/presentation_23.jpeg)
+[![presentation24](./presentation/presentation_24.jpeg)](https://youtu.be/T7-d0EBRdKw)
+*위 사진을 클릭하시면 데모 동영상으로 이동합니다.*
