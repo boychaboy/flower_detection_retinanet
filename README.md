@@ -1,7 +1,7 @@
 # Flower Detection
 retinanet pytorch implementation of Korean 21 flowers object detection
 
-*아래 사진을 클릭하시면 발표 영상으로 이동합니다.*
+*첫번째 슬라이드를 클릭하면 발표 영상으로 이동합니다.*
 [![presentation0](./presentation/presentation_0.jpeg)](https://youtu.be/931FWvNu2bE)
 ![presentation1](./presentation/presentation_1.jpeg)
 ![presentation2](./presentation/presentation_2.jpeg)
@@ -27,4 +27,4 @@ retinanet pytorch implementation of Korean 21 flowers object detection
 ![presentation22](./presentation/presentation_22.jpeg)
 ![presentation23](./presentation/presentation_23.jpeg)
 [![presentation24](./presentation/presentation_24.jpeg)](https://youtu.be/T7-d0EBRdKw)
-*위 사진을 클릭하시면 데모 동영상으로 이동합니다.*
+*마지막 슬라이드를 클릭하면 데모 동영상으로 이동합니다.*
